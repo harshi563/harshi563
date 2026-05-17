@@ -1,75 +1,57 @@
-# Hi, I'm Harshika 👋
+<h1 align="center">Hi 👋, I'm Harshika Jain</h1>
+<h3 align="center">A passionate Developer & ML Enthusiast</h3>
 
-I'm a Computer Science student at Amity University Rajasthan (2024–2028), currently in my second year. I build things that sit at the intersection of **machine learning**, **backend systems**, and **real-world data** — projects where the code has to actually work, not just run.
+<br/>
 
----
+- 🌱 I'm currently learning **Machine Learning, Deep Learning, and Backend Development**
 
-## 🔧 What I Work With
+- 💬 Ask me about **Python, C++, PyTorch, FastAPI, and Data Structures**
 
-```python
-languages  = ["Python", "C", "C++", "SQL"]
-ml_stack   = ["PyTorch", "Scikit-learn", "NumPy", "Pandas", "Streamlit"]
-backend    = ["FastAPI", "threading", "REST APIs"]
-tools      = ["Git", "Linux", "VS Code"]
-currently  = "Looking for internships in ML / backend / full-stack"
-```
+- 📫 How to reach me **harshikajain232@gmail.com**
 
----
+- ⚡ Fun fact **I build things that think 🤖**
 
-## 🚀 Projects
-
-### 🌾 [CropSense AI](https://github.com/harshi563/Crop-Sense-AI)
-> Climate-resilient crop yield predictor — Independent Project
-
-I designed the entire model architecture and built the end-to-end ML pipeline solo.
-
-- **FusionModel**: CNN (6-band satellite imagery) + BiLSTM with attention (12-week weather) + MLP with skip connections (tabular soil data) → crop yield in t/ha
-- Complete ML pipeline: synthetic data generation, multimodal feature engineering, custom scalers, HuberMSE loss, AdamW, cosine LR scheduling, early stopping
-- Real-time weather via Open-Meteo APIs — no API key, works for any city worldwide
-- 9-category advisory engine making predictions transparent to end users
-- `Tech:` PyTorch · Streamlit · Scikit-learn · NumPy · REST APIs
+<br/>
 
 ---
 
-### 🗄️ [PyKV: Python Key–Value Session Store](https://github.com/Batch-11-Team-A/PyKV-Session-Store)
-> High-performance in-memory key–value database supporting replication and snapshotting — Team of 5
+### 🔗 Connect with me:
 
-I authored `core.py` — the central session engine of the system.
-
-- Thread-safe CRUD operations using `threading.Lock()` to prevent data races under concurrent load
-- TTL-based automatic session expiry — stale sessions invalidated silently on access
-- Disk persistence hooks so sessions survive server restarts
-- `Tech:` Python · FastAPI · Uvicorn
-
----
-
-## 💼 Experience
-
-**Python Programming Intern @ Infosys Springboard** *(Dec 2025 – Mar 2026)*
-Built the core engine of PyKV as part of a team internship — handling concurrency, session lifecycle, and persistence in a production-style Python system.
+<p align="left">
+  <a href="https://linkedin.com/in/jainharshika" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://github.com/harshi563" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+  </a>
+</p>
 
 ---
 
-## 📜 Certifications
+### 🛠️ Languages and Tools:
 
-- [Software Engineering & Agile Development — Infosys Springboard](https://drive.google.com/file/d/1_dMdmrKuCO6fo3MVZKu_9_muKKq5An06/view?usp=sharing)
-- [AWS APAC Solutions Architecture — Forage](https://www.theforage.com/completion-certificates/pmnMSL4QiQ9JCgE3W/kkE9HyeNcw6rwCRGw_pmnMSL4QiQ9JCgE3W_KdMKb7LqxMFC9RsNh_1768008137203_completion_certificate.pdf)
-- [Full Stack Development: Key Skills Needed in 2026 — GUVI × HCL](https://www.guvi.in/share-certificate/7k131Mz78Vx684J19P)
-
----
-
-## 📊 GitHub Stats
-
-![Harshika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshi563&show_icons=true&theme=calm&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshi563&layout=compact&theme=calm&hide_border=true)
-
----
-
-## 📬 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-jainharshika-blue?style=flat&logo=linkedin)](https://linkedin.com/in/jainharshika)
-[![Email](https://img.shields.io/badge/Email-harshikajain232@gmail.com-red?style=flat&logo=gmail)](mailto:harshikajain232@gmail.com)
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="40" height="40"/>
+</p>
 
 ---
 
-<p align="center"><i>Open to internship opportunities in ML, backend, or full-stack development.</i></p>
+### 📊 GitHub Stats:
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=harshi563&show_icons=true&theme=tokyonight" alt="Harshika's GitHub Stats" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshi563&theme=tokyonight" alt="Harshika's GitHub Streak" />
+</p>
